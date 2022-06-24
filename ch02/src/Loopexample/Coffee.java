@@ -16,7 +16,8 @@ public class Coffee {
 					coffee -= 1; //커피 개수 1감소
 				}
 				else if(money > 500) {
-					System.out.println("거스름돈" + (money -500) + "원을 돌려주고 커피가 나옵니다.");
+					//System.out.println("거스름돈" + (money -500) + "원을 돌려주고 커피가 나옵니다.");
+					System.out.printf("거스름돈 %d원을 돌려주고 커피가 나옵니다.",(money -500));
 					coffee -= 1;
 				}
 				else {
