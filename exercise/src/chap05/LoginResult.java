@@ -1,4 +1,4 @@
-package ch05;
+package chap05;
 
 public enum LoginResult {
 	SUCCESS,
