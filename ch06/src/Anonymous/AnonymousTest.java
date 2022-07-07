@@ -1,6 +1,6 @@
-package Annonymous;
+package Anonymous;
 
-public class AnnonymousTest {
+public class AnonymousTest {
 
 	public static void main(String[] args) {
 		

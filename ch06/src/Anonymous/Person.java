@@ -1,4 +1,4 @@
-package Annonymous;
+package Anonymous;
 
 public class Person {
 	
