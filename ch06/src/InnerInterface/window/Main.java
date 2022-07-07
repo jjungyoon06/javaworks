@@ -7,6 +7,8 @@ public class Main {
 		window.button1.touch();
 		window.button2.touch();
 
+		String name = "구름";
+		Integer num = 100;
 	}
 
 }
