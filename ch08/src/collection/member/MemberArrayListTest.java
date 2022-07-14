@@ -11,11 +11,13 @@ public class MemberArrayListTest {
 		Member son = new Member(1002, "손흥민");
 		Member park = new Member(1003, "박인비");
 		Member kim = new Member(1004, "김연아");
+		Member son2 = new Member(1002, "손흥민");
 
 		memberArrayList.addMember(chu);
 		memberArrayList.addMember(son);
 		memberArrayList.addMember(park);
 		memberArrayList.addMember(kim);
+		memberArrayList.addMember(son2);
 		
 		/*memberArrayList.addMember(new Member(1001, "추신수"));
 		memberArrayList.addMember(new Member(1002, "손흥민"));
